@@ -3,6 +3,7 @@ body {
   margin: 0;
   font-family: Raleway, sans-serif;
   background: white;
+  width: 1440px;
 }
 
 header {
@@ -135,6 +136,7 @@ header {
   display: flex;
   position: relative;
   z-index: 2;
+  justify-content: end;
 }
 .cover__description-text {
   color: #fff;
@@ -148,7 +150,6 @@ header {
   word-spacing: 17px;
   padding-top: 16px;
   padding-bottom: 12px;
-  margin-left: 28%;
   margin-right: 78px;
 }
 
