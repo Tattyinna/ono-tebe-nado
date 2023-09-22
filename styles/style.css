@@ -63,6 +63,8 @@ header {
   line-height: 24.3px; /* 135% */
   text-underline-offset: 4px;
   padding: 5px;
+  justify-self: left;
+  padding-left: 0px;
 }
 
 .cover {
@@ -323,11 +325,6 @@ header {
   margin: 178px 50px auto 50px;
   padding: 0;
   height: 109px;
-}
-
-.address {
-  justify-self: left;
-  padding-left: 0px;
 }
 
 .footer__menu {
