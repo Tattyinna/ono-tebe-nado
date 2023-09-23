@@ -38,8 +38,8 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  flex-direction: row;
   list-style-type: circle;
+  flex-direction: row;
 }
 
 .header__links-list-item_no-bullit {
