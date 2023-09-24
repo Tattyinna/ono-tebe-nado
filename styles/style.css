@@ -326,6 +326,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   margin: 178px 50px auto 50px;
   padding: 0;
+  margin-bottom: 90px;
 }
 
 .footer__menu {
